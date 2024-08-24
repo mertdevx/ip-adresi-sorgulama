@@ -1,0 +1,38 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.result-container {
+    margin-top: 20px;
+}
+
+.map-container {
+    height: 300px;
+}
+
+@media (min-width: 768px) {
+    .result-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .result-card {
+        flex: 1;
+        margin-right: 20px;
+    }
+
+    .map-container {
+        flex: 1;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .result-container {
+        display: block;
+    }
+
+    .map-container {
+        margin-top: 10px;
+        height: 300px;
+    }
+}
