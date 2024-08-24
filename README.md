@@ -81,6 +81,3 @@ This simple web application allows you to look up an IP address and display its 
 This project is licensed under the [GNU General Public License v3.0](LICENSE). Please review the license file.
 
 ---
-
-
-Artık hem Türkçe hem de İngilizce açıklamalarında OpenStreetMap'e atıf yapılıyor. Umarım yardımcı olmuştur!
