@@ -27,7 +27,6 @@ Bu basit web uygulaması, bir IP adresini sorgulamanıza ve konumu, internet ser
 * **OpenStreetMap:** Konumu haritada görüntülemek için kullanılır. ([https://www.openstreetmap.org/](https://www.openstreetmap.org/))
 * **jQuery:** DOM manipülasyonu için kullanılır.
 * **toastr.js:** Bildirimler için kullanılır.
-* **SweetAlert2:** Bildirimler için kullanılır (index.html dosyasına SweetAlert2 kütüphanesini eklemeyi unutmayın).
 * **ipify API:** Kullanıcının IP adresini almak için kullanılır.
 
 ### Kurulum
@@ -70,7 +69,6 @@ This simple web application allows you to look up an IP address and display its 
 * **OpenStreetMap:** Used to display the location on a map. ([https://www.openstreetmap.org/](https://www.openstreetmap.org/))
 * **jQuery:** Used for DOM manipulation.
 * **toastr.js:** Used for notifications.
-* **SweetAlert2:** Used for notifications (remember to add the SweetAlert2 library to the index.html file).
 * **ipify API:** Used to retrieve the user's IP address.
 
 ### Installation
